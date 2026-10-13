@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Model checkpoints / weights
+*.pth
+*.ckpt
+*.pt
+
+# Large data files
+*.mat
+*.npy
+*.npz
+*.zip
+*.h5
+*.hdf5
+
+# Excel temp files
+~$*.xlsx
+
+# VS Code
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
